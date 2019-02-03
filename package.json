@@ -1,0 +1,38 @@
+{
+  "name": "samuelbartag",
+  "version": "2.1.0",
+  "description": "My NPX Personal Card",
+  "main": "bin/card.js",
+  "bin": {
+    "samuelbartag": "./bin/card.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelbartag/personal-card.git"
+  },
+  "keywords": [
+    "npm",
+    "personal",
+    "card",
+    "npm",
+    "node",
+    "samuelbartag"
+  ],
+  "author": "Samuel Santon Bartag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelbartag/personal-card/issues"
+  },
+  "homepage": "https://github.com/samuelbartag/personal-card#readme",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  },
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.2",
+    "commander": "^2.19.0"
+  }
+}
