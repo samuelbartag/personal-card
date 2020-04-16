@@ -17,7 +17,7 @@ const options = {
 const data = {
   name: chalk.white.bold("         Samuel Santon Bartag"),
   handle: chalk.cyan.underline("samuelbartag"),
-  work: chalk.white("Web Developer @ Evolutto.com.br"),
+  work: chalk.white("Freelance Web Developer"),
   twitter_url: chalk.grey("https://twitter.com/"),
   twitter_usr: chalk.cyan("SamuelBartag"),
   github_url: chalk.grey("https://github.com/"),

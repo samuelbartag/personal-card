@@ -1,6 +1,6 @@
 {
   "name": "samuelbartag",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "Meu cartão pessoal, baseado nos repos de Tierney Cyren (@bitandbang) e Glaucia Lemos (@glaucia86)",
   "main": "bin/card.js",
   "bin": {
